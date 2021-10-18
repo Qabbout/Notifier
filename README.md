@@ -1,6 +1,6 @@
 # Notifier
 
-iOS to test scheduling a notification for 5 seconds with actions, use Swift, UIKit and UserNotifications.
+iOS app to test scheduling a notification for 5 seconds with actions, use Swift, UIKit and UserNotifications.
 
 ## Screenshots
 
